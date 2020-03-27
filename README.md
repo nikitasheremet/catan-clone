@@ -3,7 +3,7 @@ Catan Clone with Multiplayer and AI
 
 Link to Live Website -> 
 
-(This is the front end repo. Backend repo ->)
+(This is the front end repo. Backend repo -> https://github.com/nikitasheremet/catan-clone-backend)
 
 ## Features
 
