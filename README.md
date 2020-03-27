@@ -14,7 +14,6 @@ Link to Live Website ->
 ## Technology
 
 - Node.js
-  - Express
 - React.js
   - React Router
   - Probbably Apollo
