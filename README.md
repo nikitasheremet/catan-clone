@@ -23,4 +23,4 @@ Link to Live Website ->
 - JEST
 - Cypress (Maybe Taiko)
 
-Trello Board: https://trello.com/b/VffDhSTc/catan-clone
+Trello Board: https://trello.com/b/VffDhSTc
