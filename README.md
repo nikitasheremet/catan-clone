@@ -17,7 +17,7 @@ Link to Live Website ->
 - React.js
   - React Router
   - Probbably Apollo
-  - Babel/Webpack (Will NOT be using create-react-app, will set up React from scratch)
+  - Babel/Webpack
 - GraphQL
 - MongoDB
 - JEST
